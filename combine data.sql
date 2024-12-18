@@ -12,4 +12,5 @@ select * from `capstone-439301.trips2023.10` union all
 select * from `capstone-439301.trips2023.11` union all
 select * from `capstone-439301.trips2023.12` 
 )
+--Combine 12months of bike trip data in 2023
  
