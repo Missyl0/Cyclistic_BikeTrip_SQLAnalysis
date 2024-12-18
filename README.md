@@ -18,5 +18,7 @@ The goal of this analysis was to differentiate casual riders from subscribed rid
 - **Tableau:** To create an interactive scrollable dashboard for visualizing trends.
 - **Google BigQuery:** For querying and managing large datasets.
 
-**Tableau Dashboard Link:** ![Dashboard](Dashboard2.png) Dashboard 2.png Dashboard 2.png https://github.com/Missyl0/Cyclistic_BikeTrip_SQLAnalysis/blob/fd6f8ee436cf420d9e0d1f3c42086397d13b54fd/Dashboard%202.png
-https://public.tableau.com/views/GOOGLEDATAANALYTICSCAPSTONEPROJECTCYCLISTIC/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+**Tableau Dashboard Link:** https://tinyurl.com/TamNdi
+![Dashboard](Dashboard%202.png)
+
+
